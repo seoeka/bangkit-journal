@@ -18,9 +18,12 @@ Capturing my day-to-day experiences in Bangkit through concise, personalized ref
 
 
 ## Week of 19 February - 25 February 2024
-### 19 February 2024
-**Life Path - Empower Your Tomorrow: Unlocking Your Infinite Potential**
-Learning about ourselves, our passions, and our values involves cultivating self-awareness and listening to the voice within us. It's a journey of introspection and exploration, delving deep into our thoughts, emotions, and experiences to gain a clearer understanding of who we are and what truly matters to us. By tuning into our innermost desires, beliefs, and principles, we can align our actions with our authentic selves, leading to greater fulfillment and purpose in life.
+**19 Feb 2024** -  We learn how to cultivate self-awareness, explore passions, and align actions with authentic selves for fulfillment. Also attended techincal briefing event, led by PIC, offers insights into tech essentials for project success.
 
-### 21 February 2024
-### 22 February 2024
+**20 Feb 2024** - On Tuesday, I continued with the Kotlin programming module, exploring topics such as coroutines to enhance my understanding and skills
+
+**21 Feb 2024** - Successfully completed the Kotlin programming module, meeting the deadline with satisfaction. Attended the weekly consultation session to discuss upcoming activities within the Bangkit community.
+
+**22 Feb 2024** - Attended in Bangkit's 'lepas sambut' event. Later, actively participated in an ILT class about Growth Mindsets and The Power of Feedback
+
+**23 Feb 2024** - Dedicated time to dive deeper into learning beginner-level Android app development, focusing on fundamental concepts and practical applications
